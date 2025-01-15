@@ -1,2 +1,3 @@
-Hello. This is a test file for GitHub Commands using CLI. We will be testing push, pull, commit and merge.f3rf
+Hello. This is a test file for GitHub Commands using CLI. We will be testing push, pull, commit and merge.f3rf 
+changes made 
 thank you
